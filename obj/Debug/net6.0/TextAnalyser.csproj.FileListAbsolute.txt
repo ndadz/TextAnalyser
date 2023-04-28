@@ -1,0 +1,15 @@
+E:\New folder\TextAnalyser\bin\Debug\net6.0\TextAnalyser.exe
+E:\New folder\TextAnalyser\bin\Debug\net6.0\TextAnalyser.deps.json
+E:\New folder\TextAnalyser\bin\Debug\net6.0\TextAnalyser.runtimeconfig.json
+E:\New folder\TextAnalyser\bin\Debug\net6.0\TextAnalyser.dll
+E:\New folder\TextAnalyser\bin\Debug\net6.0\TextAnalyser.pdb
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.csproj.AssemblyReference.cache
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.AssemblyInfoInputs.cache
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.AssemblyInfo.cs
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.csproj.CoreCompileInputs.cache
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.dll
+E:\New folder\TextAnalyser\obj\Debug\net6.0\refint\TextAnalyser.dll
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.pdb
+E:\New folder\TextAnalyser\obj\Debug\net6.0\TextAnalyser.genruntimeconfig.cache
+E:\New folder\TextAnalyser\obj\Debug\net6.0\ref\TextAnalyser.dll
